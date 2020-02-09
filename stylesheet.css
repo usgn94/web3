@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(124, 228, 228);
+}
+.name{
+     width: 140px;
+     height: 140px;
+     border-radius: 100%;
+     float: left;
+     padding-top: 14px;
+     padding-right: 10px;
+     padding-left: 3px;
+     padding-bottom: 10px;
+     position: relative;
+     right: 7px;
+     top: 1px;
+     font-family: cursive;
+
+
+}
+div.part1{
+    border-radius: 70px;
+    background:  rgb(241, 169, 181);
+    padding-left: 20px;
+    padding-right: 5px;
+    width: fit-content; 
+    position: relative;
+    left: 80px;
+    font-family: cursive;
+    border: 2px double rgb(241, 169, 181);
+}
+div.part2{
+    border-radius: 60px;
+    background-color: rgb(241, 169, 181) ;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: fit-content;
+    font-family: cursive;
+    position: relative;
+    left: 800px;
+}
+div.part3{
+
+    border-radius: 70px;
+    background-color: rgb(241, 169, 181) ;
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: fit-content;
+    font-family: cursive;
+    position: relative;
+    left: 80px
+
+}
+div.part4{
+    background: rgb(241, 169, 181);
+    border-width: inherit;
+    border-color: rgba(red, green, blue, alpha);
+    width: fit-content;
+    position: relative;
+    left: 800px;
+    padding: 0px;
+
+}
+
+table,th,td{
+    border: 1px solid;
+}
+body{
+    background-color: rgb(124,228,228);
+}
+textarea {
+    width: 60%;
+    height: 150px;
+    padding: 9px 12px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+form{
+    font-family: cursive;
+}
